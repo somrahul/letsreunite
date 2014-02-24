@@ -170,8 +170,8 @@ array_push($friend_location_array,$singlelist2);
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
- <meta name='author' content="Guanyi Fu" />
- <meta name="description" content="The web site and portfolio of Guanyi Fu" />
+ <meta name='author' content="Somesh Rahul" />
+ <meta name="description" content="Somesh's Map Algo" />
 <link rel="stylesheet" href="guanyif.css" type="text/css" />
  <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
 <script src="JS/jquery.js" type="text/javascript"></script>  
