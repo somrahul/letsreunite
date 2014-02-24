@@ -22,7 +22,7 @@ $loginUrl = $facebook->getLoginUrl($params);
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
- <meta name='author' content="Guanyi Fu" />
+ <meta name='author' content="Guanyi Fu Somesh Rahul Weqin" />
  <meta name="description" content="This is the website of 694 Course Project" />
 <link rel="stylesheet" href="guanyif.css" type="text/css" />
 <script src="JS/jquery.js" type="text/javascript"></script>  
